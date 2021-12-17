@@ -1,2 +1,2 @@
-# Projects
+# Lottery Prize Analyzer
 Personal Projects
